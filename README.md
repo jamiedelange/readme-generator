@@ -1,32 +1,33 @@
-# bikes
-    !https://img.shields.io/badge/license-MIT-blue
+# Bikes
+  !https://img.shields.io/badge/license-MIT-blue
 
-    ## Description
+  ## Description
 
-    # bikes
+  # bikes
 
-    ## Table of Contents
-      * [Installation Instructions](#installation)
-      * [Usage Information](#usage)
-      * [Contribution Guidelines](#contributing)
-      * [Test Instructions](#tests)
-      * [Licenses](#license)
+  ## Table of Contents
+    * [Installation Instructions](#installation)
+    * [Usage Information](#usage)
+    * [Contribution Guidelines](#contributing)
+    * [Test Instructions](#tests)
+    * [Licenses](#license)
 
-    ## Installation Instructions
-    # install
+  ## Installation Instructions
+  # install
 
-    ## Usage Information
-    # use
+  ## Usage Information
+  # usage
 
-    ## Contribution Guidelines
-    # contribute
+  ## Contribution Guidelines
+  # contribution
 
-    ## Test Instructions
-    # test
+  ## Test Instructions
+  # test
 
-    ## Licenses
-    # MIT
+  ## Licenses
+  # MIT
 
-    ## Questions
-    # [jamiedelange] (https://github.com/jamiedelange)
-    # E-mail me at jamie.de.lange@mac.com if you have any questions!
+  ## Questions
+  # [jamiedelange] (https://github.com/jamiedelange)
+  # E-mail me at jamie.de.lange@mac.com if you have any questions!
+  
