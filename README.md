@@ -1,10 +1,10 @@
-# Bikes
+# BIKES
 
-  ![license badge](https://img.shields.io/badge/license-Mozilla-blue)
+  ![license badge](https://img.shields.io/badge/license-Apache-blue)
 
   # Description
 
-  bikes
+  I like biking
 
   # Table of Contents
   * [Installation Instructions](#installation-instructions)
@@ -17,19 +17,19 @@
   install
 
   # Usage Information
-  use
+  use!
 
   # Contribution Guidelines
-  contribute
+  contribute!
 
   # Test Instructions
   test
 
   # Licenses
-  Mozilla
+  Apache
 
   # Questions
-  [jamiedelange](https://github.com/jamiedelange)
+  GitHub username: [jamiedelange](https://github.com/jamiedelange)
 
   E-mail me at jamie.de.lange@mac.com if you have any questions!
   
