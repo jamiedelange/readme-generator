@@ -1,7 +1,8 @@
 # Bikes
-  ![license badge] (https://img.shields.io/badge/license-MIT-blue)
 
-  ## Description
+  ![license badge](https://img.shields.io/badge/license-MIT-blue)
+
+  # Description
 
   bikes
 
