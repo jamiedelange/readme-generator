@@ -1,6 +1,6 @@
 # Bikes
 
-  ![license badge](https://img.shields.io/badge/license-MIT-blue)
+  ![license badge](https://img.shields.io/badge/license-Mozilla-blue)
 
   # Description
 
@@ -26,10 +26,10 @@
   test
 
   # Licenses
-  MIT
+  Mozilla
 
   # Questions
-  [jamiedelange] (https://github.com/jamiedelange)
-  
+  [jamiedelange](https://github.com/jamiedelange)
+
   E-mail me at jamie.de.lange@mac.com if you have any questions!
   

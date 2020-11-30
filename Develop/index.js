@@ -47,7 +47,15 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'Which license?',
-        choices: ['MIT', 'GNU GPLv3']
+        choices: ['MIT', 'GNU GPLv3', 'Apache', 'Mozilla'],
+        validate: licenseInput => {
+            if (licenseInput) {
+                return true;
+            } else {
+                console.log('Please select a license');
+                return false;
+            }
+        }
     },
     {
         type: 'input',
