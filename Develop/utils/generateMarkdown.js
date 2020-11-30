@@ -11,9 +11,9 @@ function generateMarkdown(data) {
   # Table of Contents
   * [Installation Instructions](#installation-instructions)
   * [Usage Information](#usage-information)
-  * [Contribution Guidelines](#contributing)
-  * [Test Instructions](#tests)
-  * [Licenses](#license)
+  * [Contribution Guidelines](#contribution-guidelines)
+  * [Test Instructions](#test-instructions)
+  * [Licenses](#licenses)
 
   # Installation Instructions
   ${data['installation instructions']}
