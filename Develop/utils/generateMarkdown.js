@@ -9,8 +9,8 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  * [Installation Instructions](#installation)
-  * [Usage Information](#usage)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage Information](#usage-information)
   * [Contribution Guidelines](#contributing)
   * [Test Instructions](#tests)
   * [Licenses](#license)

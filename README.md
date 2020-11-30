@@ -1,4 +1,4 @@
-# Bikes
+# BIkes
 
   ![license badge](https://img.shields.io/badge/license-MIT-blue)
 
@@ -7,8 +7,8 @@
   bikes
 
   # Table of Contents
-  * [Installation Instructions](#installation)
-  * [Usage Information](#usage)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage Information](#usage-information)
   * [Contribution Guidelines](#contributing)
   * [Test Instructions](#tests)
   * [Licenses](#license)
