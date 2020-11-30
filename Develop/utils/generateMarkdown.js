@@ -31,7 +31,8 @@ function generateMarkdown(data) {
   ${data.license}
 
   # Questions
-  ${data.username}] (https://github.com/${data.username})
+  [${data.username}] (https://github.com/${data.username})
+  
   E-mail me at ${data['e-mail']} if you have any questions!
   `;
 };
